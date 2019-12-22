@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><corpus xmlns="http://semweb.unister.de/xml-corpus-schema-2013">
+<Document id="0"><TextWithNamedEntities><SimpleTextPart>The U.S. Patent Office allows genes to be patented as soon as someone isolates the DNA by removing it from the cell , says </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/American_Civil_Liberties_Union">ACLU</NamedEntityInText><SimpleTextPart> attorney </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Sandra_Park">Sandra Park</NamedEntityInText><SimpleTextPart> .</SimpleTextPart></TextWithNamedEntities></Document>
+</corpus>
